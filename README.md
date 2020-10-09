@@ -1,5 +1,5 @@
 ![](./flip.gif)
-(./watchCalendarWeather.png)
+![](./watchCalendarWeather.png)
 
 # watchCalendarWeather
 
